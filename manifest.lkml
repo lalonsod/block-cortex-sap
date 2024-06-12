@@ -1,10 +1,10 @@
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "LADT-CORTEX"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project ID"
+  value: "laboratorio-big-data"
   export: override_required
 }
 
